@@ -1,6 +1,5 @@
 - 👋 Hi, I’m gaoxu
-- 👀 I’m interested in CG
-- 🌱 I’m currently learning CG
+- 👀 I’m interested in Linux,c,and python
 
 
 <!---
